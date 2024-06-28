@@ -1,1 +1,1 @@
-#Example Contract
+#ExampleContract
