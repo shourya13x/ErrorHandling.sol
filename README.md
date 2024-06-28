@@ -1,1 +1,1 @@
-# ErrorHandling/Bank.sol
+#Example Contract
